@@ -65,6 +65,8 @@
 .radio_button {
   text-align:left;
 }
+.table_cell {
+}
 .form_hint {
   color:#999999;
 }
@@ -90,7 +92,7 @@
 .primary_button {
   color:#FFFFFF;
 }
-.table_cell {
+.table_cell1 {
 }
 .label {
   font-size:14px;
