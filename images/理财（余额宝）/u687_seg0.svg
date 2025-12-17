@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="147 627 35 8" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 147 631.5  L 172 631.5  A 5 5 0 0 1 177.5 636.5 L 177.5 792  A 5 5 0 0 0 182 797.5 L 218 797.5  A 3 3 0 0 1 221 794.5 A 3 3 0 0 1 224 797.5 L 631 797.5  A 5 5 0 0 0 636.5 792.5 L 636.5 777  " stroke-width="1" stroke-dasharray="0" stroke="rgba(0, 153, 204, 1)" fill="none" class="stroke" />
-  <path d="M 642.8 778  L 636.5 772  L 630.2 778  L 642.8 778  Z " fill-rule="nonzero" fill="rgba(0, 153, 204, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="112px" preserveAspectRatio="xMidYMin meet" viewBox="217 751 8 112" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 221.5 751  L 221.5 853  A 5 5 0 0 0 226.5 858.5 L 1845 858.5  A 5 5 0 0 0 1850.5 853.5 L 1850.5 777  " stroke-width="1" stroke-dasharray="0" stroke="rgba(0, 153, 204, 1)" fill="none" class="stroke" />
+  <path d="M 1856.8 778  L 1850.5 772  L 1844.2 778  L 1856.8 778  Z " fill-rule="nonzero" fill="rgba(0, 153, 204, 1)" stroke="none" class="fill" />
 </svg>
