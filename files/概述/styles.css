@@ -278,7 +278,7 @@
   left:112px;
   top:365px;
   width:1023px;
-  height:1317px;
+  height:1372px;
 }
 #u7 {
   border-width:0px;
@@ -2310,7 +2310,7 @@
   left:0px;
   top:867px;
   width:90px;
-  height:50px;
+  height:105px;
   display:flex;
   transition:none;
   font-size:14px;
@@ -2328,7 +2328,7 @@
   left:0px;
   top:0px;
   width:90px;
-  height:50px;
+  height:105px;
 }
 #u73_text {
   border-width:0px;
@@ -2341,7 +2341,7 @@
   left:90px;
   top:867px;
   width:145px;
-  height:50px;
+  height:105px;
   display:flex;
   transition:none;
 }
@@ -2358,7 +2358,7 @@
   left:0px;
   top:0px;
   width:145px;
-  height:50px;
+  height:105px;
 }
 #u74_text {
   border-width:0px;
@@ -2371,10 +2371,9 @@
   left:235px;
   top:867px;
   width:427px;
-  height:50px;
+  height:105px;
   display:flex;
   transition:none;
-  font-size:14px;
   text-align:left;
 }
 #u75 .text {
@@ -2390,13 +2389,12 @@
   left:0px;
   top:0px;
   width:427px;
-  height:50px;
+  height:105px;
 }
 #u75_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u76 {
   border-width:0px;
@@ -2404,7 +2402,7 @@
   left:661px;
   top:867px;
   width:121px;
-  height:50px;
+  height:105px;
   display:flex;
   transition:none;
 }
@@ -2421,13 +2419,12 @@
   left:0px;
   top:0px;
   width:121px;
-  height:50px;
+  height:105px;
 }
 #u76_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u77 {
   border-width:0px;
@@ -2435,7 +2432,7 @@
   left:783px;
   top:867px;
   width:100px;
-  height:50px;
+  height:105px;
   display:flex;
   transition:none;
 }
@@ -2452,7 +2449,7 @@
   left:0px;
   top:0px;
   width:100px;
-  height:50px;
+  height:105px;
 }
 #u77_text {
   border-width:0px;
@@ -2466,7 +2463,7 @@
   left:883px;
   top:867px;
   width:140px;
-  height:50px;
+  height:105px;
   display:flex;
   transition:none;
 }
@@ -2483,7 +2480,7 @@
   left:0px;
   top:0px;
   width:140px;
-  height:50px;
+  height:105px;
 }
 #u78_text {
   border-width:0px;
@@ -2495,7 +2492,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:917px;
+  top:972px;
   width:90px;
   height:50px;
   display:flex;
@@ -2526,7 +2523,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:917px;
+  top:972px;
   width:145px;
   height:50px;
   display:flex;
@@ -2556,7 +2553,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:917px;
+  top:972px;
   width:427px;
   height:50px;
   display:flex;
@@ -2589,7 +2586,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:917px;
+  top:972px;
   width:121px;
   height:50px;
   display:flex;
@@ -2620,7 +2617,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:917px;
+  top:972px;
   width:100px;
   height:50px;
   display:flex;
@@ -2651,7 +2648,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:917px;
+  top:972px;
   width:140px;
   height:50px;
   display:flex;
@@ -2682,7 +2679,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:967px;
+  top:1022px;
   width:90px;
   height:50px;
   display:flex;
@@ -2713,7 +2710,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:967px;
+  top:1022px;
   width:145px;
   height:50px;
   display:flex;
@@ -2743,7 +2740,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:967px;
+  top:1022px;
   width:427px;
   height:50px;
   display:flex;
@@ -2776,7 +2773,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:967px;
+  top:1022px;
   width:121px;
   height:50px;
   display:flex;
@@ -2807,7 +2804,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:967px;
+  top:1022px;
   width:100px;
   height:50px;
   display:flex;
@@ -2838,7 +2835,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:967px;
+  top:1022px;
   width:140px;
   height:50px;
   display:flex;
@@ -2869,7 +2866,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1017px;
+  top:1072px;
   width:90px;
   height:50px;
   display:flex;
@@ -2900,7 +2897,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:1017px;
+  top:1072px;
   width:145px;
   height:50px;
   display:flex;
@@ -2930,7 +2927,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:1017px;
+  top:1072px;
   width:427px;
   height:50px;
   display:flex;
@@ -2963,7 +2960,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:1017px;
+  top:1072px;
   width:121px;
   height:50px;
   display:flex;
@@ -2994,7 +2991,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:1017px;
+  top:1072px;
   width:100px;
   height:50px;
   display:flex;
@@ -3025,7 +3022,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:1017px;
+  top:1072px;
   width:140px;
   height:50px;
   display:flex;
@@ -3056,7 +3053,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1067px;
+  top:1122px;
   width:90px;
   height:50px;
   display:flex;
@@ -3087,7 +3084,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:1067px;
+  top:1122px;
   width:145px;
   height:50px;
   display:flex;
@@ -3117,7 +3114,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:1067px;
+  top:1122px;
   width:427px;
   height:50px;
   display:flex;
@@ -3150,7 +3147,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:1067px;
+  top:1122px;
   width:121px;
   height:50px;
   display:flex;
@@ -3181,7 +3178,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:1067px;
+  top:1122px;
   width:100px;
   height:50px;
   display:flex;
@@ -3212,7 +3209,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:1067px;
+  top:1122px;
   width:140px;
   height:50px;
   display:flex;
@@ -3243,7 +3240,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1117px;
+  top:1172px;
   width:90px;
   height:50px;
   display:flex;
@@ -3274,7 +3271,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:1117px;
+  top:1172px;
   width:145px;
   height:50px;
   display:flex;
@@ -3305,7 +3302,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:1117px;
+  top:1172px;
   width:427px;
   height:50px;
   display:flex;
@@ -3338,7 +3335,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:1117px;
+  top:1172px;
   width:121px;
   height:50px;
   display:flex;
@@ -3369,7 +3366,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:1117px;
+  top:1172px;
   width:100px;
   height:50px;
   display:flex;
@@ -3400,7 +3397,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:1117px;
+  top:1172px;
   width:140px;
   height:50px;
   display:flex;
@@ -3431,7 +3428,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1167px;
+  top:1222px;
   width:90px;
   height:50px;
   display:flex;
@@ -3462,7 +3459,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:1167px;
+  top:1222px;
   width:145px;
   height:50px;
   display:flex;
@@ -3493,7 +3490,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:1167px;
+  top:1222px;
   width:427px;
   height:50px;
   display:flex;
@@ -3526,7 +3523,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:1167px;
+  top:1222px;
   width:121px;
   height:50px;
   display:flex;
@@ -3557,7 +3554,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:1167px;
+  top:1222px;
   width:100px;
   height:50px;
   display:flex;
@@ -3588,7 +3585,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:1167px;
+  top:1222px;
   width:140px;
   height:50px;
   display:flex;
@@ -3619,7 +3616,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1217px;
+  top:1272px;
   width:90px;
   height:50px;
   display:flex;
@@ -3650,7 +3647,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:1217px;
+  top:1272px;
   width:145px;
   height:50px;
   display:flex;
@@ -3681,7 +3678,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:1217px;
+  top:1272px;
   width:427px;
   height:50px;
   display:flex;
@@ -3714,7 +3711,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:1217px;
+  top:1272px;
   width:121px;
   height:50px;
   display:flex;
@@ -3745,7 +3742,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:1217px;
+  top:1272px;
   width:100px;
   height:50px;
   display:flex;
@@ -3776,7 +3773,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:1217px;
+  top:1272px;
   width:140px;
   height:50px;
   display:flex;
@@ -3807,7 +3804,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1267px;
+  top:1322px;
   width:90px;
   height:50px;
   display:flex;
@@ -3838,7 +3835,7 @@
   border-width:0px;
   position:absolute;
   left:90px;
-  top:1267px;
+  top:1322px;
   width:145px;
   height:50px;
   display:flex;
@@ -3869,7 +3866,7 @@
   border-width:0px;
   position:absolute;
   left:235px;
-  top:1267px;
+  top:1322px;
   width:427px;
   height:50px;
   display:flex;
@@ -3902,7 +3899,7 @@
   border-width:0px;
   position:absolute;
   left:661px;
-  top:1267px;
+  top:1322px;
   width:121px;
   height:50px;
   display:flex;
@@ -3933,7 +3930,7 @@
   border-width:0px;
   position:absolute;
   left:783px;
-  top:1267px;
+  top:1322px;
   width:100px;
   height:50px;
   display:flex;
@@ -3964,7 +3961,7 @@
   border-width:0px;
   position:absolute;
   left:883px;
-  top:1267px;
+  top:1322px;
   width:140px;
   height:50px;
   display:flex;
